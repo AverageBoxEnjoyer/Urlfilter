@@ -10,3 +10,6 @@ Made easy to use, click-and-go. If there is any issue within this repository, ma
 
 ## Building
 I do not held responsible for any usage or unusage that you make with this software, anyone is free to modify & edit this code.
+
+## Requeriments
+Golang, NodeJS, Svelte. wails dev for debugging, wails build for executable.
