@@ -1,16 +1,12 @@
 # README
 
 ## About
+Software to filter URL:Log:Pass into credentials. Mixed formats supported at the time.
 
-This is the official Wails Svelte template.
+Made on Svelte framework as personal test to my actual skills, not went so far from the beginning tho.
 
-## Live Development
-
-To run in live development mode, run `wails dev` in the project directory. This will run a Vite development
-server that will provide very fast hot reload of your frontend changes. If you want to develop in a browser
-and have access to your Go methods, there is also a dev server that runs on http://localhost:34115. Connect
-to this in your browser, and you can call your Go code from devtools.
+## Comfortable UI
+Made easy to use, click-and-go. If there is any issue within this repository, make an issue.
 
 ## Building
-
-To build a redistributable, production mode package, use `wails build`.
+I do not held responsible for any usage or unusage that you make with this software, anyone is free to modify & edit this code.
